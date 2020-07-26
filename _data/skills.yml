@@ -15,8 +15,6 @@ frameworks:
   - item: Flask
   - item: Django
   - item: React.js
-  - item: Bootstrap
-  - item: Express
   - item: D3.js
 
 tools:
