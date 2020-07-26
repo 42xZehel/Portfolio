@@ -1,26 +1,25 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: Madhav Somanath
+title: Madhav Somanath | AI/ML Enthusiast | Full-stack Developer
+description: Enthusiastic developer bringing keen insights &amp; value to business solutions.
+url: https://maadhavsomanath.netlify.app/
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+email: madhav.somanath@gmail.com
+logo: https://github.com/42xZehel/Portfolio/blob/master/img/emojis/rocket.png
+resume: https://drive.google.com/file/d/1h1DiA4nWCHuhDT050pzK3GPGppFZsgBS/view?usp=sharing
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:madhav.somanath@gmail.com
   - title: twitter
     url: https://twitter.com/bchiang7
   - title: instagram
-    url: https://instagram.com/bchiang7
+    url: https://instagram.com/madhav_somanath
   - title: codepen
     url: http://codepen.io/bchiang7
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/Madhav-Somanath
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/madhav-somanath
 
 # Build settings
 markdown: kramdown
